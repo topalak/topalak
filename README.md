@@ -8,7 +8,7 @@ I am a passionate and motivated student, learning on artificial intelligence, ma
 
 * 🌍  I'm based in Izmir
 * ✉️  You can contact me at [topalak.efe@gmail.com](mailto:topalak.efe@gmail.com)
-* 🧠  I'm learning NLP / LLM
+
 
 ### Skills
 
