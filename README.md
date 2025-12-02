@@ -42,21 +42,20 @@ This project demonstrates my ability to build end-to-end AI systems.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topalak&show_icons=true" height="180" alt="topalak's stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=topalak&theme=dracula" alt="topalak's GitHub Trophy" />
+  
   <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topalak&layout=compact&langs_count=6" height="180" alt="topalak's languages" />
+  
+  <img src="https://denver-stats.herokuapp.com/api/top-langs/?username=topalak&layout=compact&hide_border=true&langs_count=6" height="180" alt="topalak's top languages" />
 </div>
 
 ---
 ### 📫 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/efetopalak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:topalakefe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
