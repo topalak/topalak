@@ -2,7 +2,7 @@
 I am a recent graduate of **Ege University (Statistics)**
 I specialize in building robust RAG pipelines, autonomous agents, and data processing systems.
 
-- 🔭 I’m currently working on **[Elite Craft](https://github.com/yourusername/elite-craft)**, an AI assistant for developers.
+- 🔭 I’m currently working on **[Elite Craft](https://github.com/topalak/elite-craft)**, an AI assistant for developers.
 - 🐍 My core stack: **Python, LangChain, LangGraph, Supabase (pgvector)**.
 
 ---
@@ -23,12 +23,12 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 **Data Engineering:**
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
 ![Crawling](https://img.shields.io/badge/Crawl4AI-Web_Scraping-orange?style=flat)
-
+![Docling](https://img.shields.io/badge/Docling-Document_Processing-0066CC?style=flat&logo=doi&logoColor=white)
 ---
 
 ### 🚀 Featured Project
 
-#### ⚒️ [Elite Craft](https://github.com/yourusername/elite-craft)
+#### ⚒️ [Elite Craft](https://github.com/topalak/elite-craft)
 *> An AI-powered assistant that helps developers build and enhance agentic AI projects.*
 
 This project demonstrates my ability to build end-to-end AI systems.
@@ -41,12 +41,24 @@ This project demonstrates my ability to build end-to-end AI systems.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=topalak&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="topalak's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topalak&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" alt="topalak's languages" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 [https://www.linkedin.com/in/efetopalak/] • [topalakefe@gmail.com]
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/efetopalak/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:topalakefe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
