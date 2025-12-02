@@ -38,18 +38,6 @@ This project demonstrates my ability to build end-to-end AI systems.
 - **Testing:** Maintains **100% Unit Test Coverage**.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=topalak&theme=dracula" alt="topalak's GitHub Trophy" />
-  
-  <br />
-  
-  <img src="https://denver-stats.herokuapp.com/api/top-langs/?username=topalak&layout=compact&hide_border=true&langs_count=6" height="180" alt="topalak's top languages" />
-</div>
-
----
 ### 📫 Connect with Me
 
 <a href="YOUR_LINKEDIN_URL">
