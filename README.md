@@ -42,10 +42,10 @@ This project demonstrates my ability to build end-to-end AI systems.
 ---
 ### 📫 Connect with Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/efetopalak/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:topalakefe@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
