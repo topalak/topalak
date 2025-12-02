@@ -20,10 +20,13 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 ![Supabase](https://img.shields.io/badge/Supabase-Vector_DB-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat&logo=ollama&logoColor=white)
 
-**Data Engineering:**
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+**Others:**
+![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-E92063?style=flat&logo=pydantic&logoColor=white)
 ![Crawling](https://img.shields.io/badge/Crawl4AI-Web_Scraping-orange?style=flat)
 ![Docling](https://img.shields.io/badge/Docling-Document_Processing-0066CC?style=flat&logo=doi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A8A9E?style=flat&logo=pytest&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+
 ---
 
 ### 🚀 Featured Project
