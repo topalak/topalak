@@ -20,13 +20,17 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 ![Supabase](https://img.shields.io/badge/Supabase-Vector_DB-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat&logo=ollama&logoColor=white)
 
-**Others:**
-![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-E92063?style=flat&logo=pydantic&logoColor=white)
+**Data Ingestion & Processing:**
 ![Crawling](https://img.shields.io/badge/Crawl4AI-Web_Scraping-orange?style=flat)
-![Docling](https://img.shields.io/badge/Docling-Document_Processing-0066CC?style=flat&logo=doi&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Testing-0A8A9E?style=flat&logo=pytest&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![Docling](https://img.shields.io/badge/Docling-Document_Processing-052FAD?style=flat&logo=readthedocs&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-E92063?style=flat&logo=pydantic&logoColor=white)
 
+**Data Analysis & Modeling:**
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-ML%20Modeling-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Testing & Quality:**
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A8A9E?style=flat&logo=pytest&logoColor=white)
 ---
 
 ### 🚀 Featured Project
