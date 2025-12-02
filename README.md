@@ -41,16 +41,14 @@ This project demonstrates my ability to build end-to-end AI systems.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topalak&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="topalak's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topalak&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" alt="topalak's languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=topalak&show_icons=true" height="180" alt="topalak's stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topalak&layout=compact&langs_count=6" height="180" alt="topalak's languages" />
+</div>
 
 ---
-
-### 📫 Connect with Me
-[https://www.linkedin.com/in/efetopalak/] • [topalakefe@gmail.com]
-
 ### 📫 Connect with Me
 
 <div align="center">
