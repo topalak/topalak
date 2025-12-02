@@ -37,7 +37,6 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 This project demonstrates my ability to build end-to-end AI systems.
 - **Architecture:** RAG pipeline using LangGraph and Ollama.
 - **Data Engineering:** Asynchronous crawling (Crawl4AI) and intelligent chunking (Docling).
-- **Quality Assurance:** Includes statistical analysis tools to measure crawl stability and data integrity.
 - **Testing:** Maintains **100% Unit Test Coverage**.
 
 ---
