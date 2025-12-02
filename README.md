@@ -42,7 +42,7 @@ This project demonstrates my ability to build end-to-end AI systems.
 ---
 ### 📫 Connect with Me
 
-<a href="linkedin.com/in/efetopalak/">
+<a href="https://www.linkedin.com/in/efetopalak/"> 
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
