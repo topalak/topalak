@@ -18,6 +18,7 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 ![LangChain](https://img.shields.io/badge/LangChain-Integration-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agents-blue?style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-Vector_DB-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API%20Deployment-009688?style=flat&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat&logo=ollama&logoColor=white)
 
 **Data Ingestion & Processing:**
