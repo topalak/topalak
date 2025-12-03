@@ -31,6 +31,7 @@ I specialize in building robust RAG pipelines, autonomous agents, and data proce
 
 **Testing & Quality:**
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-0A8A9E?style=flat&logo=pytest&logoColor=white)
+
 ---
 
 ### 🚀 Featured Project
